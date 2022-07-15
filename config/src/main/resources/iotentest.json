@@ -1,0 +1,34 @@
+{
+    "config" : {
+      "chainId" : 47,
+      "londonBlock" : 0,
+      "homesteadBlock" : 0,
+      "eip150Block" : 0,
+      "eip155Block" : 0,
+      "eip158Block" : 0,
+      "byzantiumBlock" : 0,
+      "qbft" : {
+        "blockperiodseconds" : 5,
+        "epochlength" : 30000,
+        "requesttimeoutseconds" : 10,
+        "blockreward": "100000000000000000000"
+      }
+    },
+    "discovery": {
+      "bootnodes": [
+        "enode://3cbdb76991bf90dfd3cc0c8ab7c05d2006bc4e718371b93e4a56f70cc889de45fd13489137675b668bd3b2456b6324af03356a47d55a823bd43a12e861b84967@13.56.95.118:30303"
+      ]
+    },
+    "nonce" : "0x0",
+    "timestamp" : "0x62B22511",
+    "gasLimit" : "0xE4E1C0",
+    "difficulty" : "0x1",
+    "mixHash" : "0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365",
+    "coinbase" : "0x0000000000000000000000000000000000000000",
+    "alloc" : {
+      "753A417F2975fFC734eC67fBBC7576118CB834F3" : {
+        "balance" : "0x422CA8B0A00A425000000"
+      }
+    },
+    "extraData" : "0xf87aa00000000000000000000000000000000000000000000000000000000000000000f85494064c723116bb89b338aab86580fedddc4561613994721bbd6a7bce5bdfb5f7cd2e2dee9d4c1878a66494fe23edec3d3c548234d77e15efcc5d8cab62225b949989994534cfc6df17080a4eebbabdda1daca758c080c0"
+  }
