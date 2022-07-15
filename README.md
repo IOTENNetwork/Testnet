@@ -1,6 +1,5 @@
 # Besu Ioten Client
  
-[Download](https://hyperledger.jfrog.io/artifactory/besu-binaries/besu/)
 
 Besu is an Apache 2.0 licensed, Ioten compatible, Ethereum client written in Java.
 
@@ -16,11 +15,6 @@ Besu is an Apache 2.0 licensed, Ioten compatible, Ethereum client written in Jav
 ## Issues 
 
 Besu issues are tracked [in the github issues tab][Besu Issues].
-
-## Besu Users
-
-To install the Besu binary, follow [these instructions](https://besu.hyperledger.org/HowTo/Get-Started/Install-Binaries/).    
-
 
 ## Besu Developers
 
